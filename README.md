@@ -1,4 +1,4 @@
-![Konversikg](https://github.com/AhmadNuralfansyah/postes1/assets/144907524/2a13d4c2-237c-4e40-8dfe-694c4f7c4a20)
+![Konversikg (1)](https://github.com/AhmadNuralfansyah/postes1/assets/144907524/7b7efa3c-2750-4ee1-b8df-9a09bda1ce4c)
 
 output berupa berat awal (kg) dan hasil konversi ke salah satu pilihan konversi (pound,ounce,gram)
 
